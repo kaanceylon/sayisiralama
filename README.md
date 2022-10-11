@@ -1,0 +1,2 @@
+# sayisiralama
+büyükten küçüğe sıralama
